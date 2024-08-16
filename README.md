@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elorm116
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning how to code in golang
-- 💞️ I’m looking to collaborate on project related to golang
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on project related to DevOps
 - 📫 How to reach me @elorm116 on twitter
 
 <!---
