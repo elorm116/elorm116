@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elorm116
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Git DevOps Engineer
 - 💞️ I’m looking to collaborate on project related to DevOps
 - 📫 How to reach me @elorm116 on twitter
 
