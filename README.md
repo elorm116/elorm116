@@ -2,54 +2,43 @@
   <h1>Hi, I'm Anthony 👋</h1>
   
   <p>
-    <strong>DevOps Engineer</strong> focused on building and automating infrastructure using Infrastructure as Code and cloud technologies.
+    <strong>DevOps Engineer</strong> focused on building and automating real-world infrastructure and cloud applications.
   </p>
 
+  <h3>🚀 Featured Projects</h3>
+
+  <!-- 30-Day Terraform Project -->
+  <h4>🔹 Terraform in Practice: 30-Day Project</h4>
   <p>
-    Building a structured Terraform project focused on real-world infrastructure workflows and best practices.
+    Built and documented real-world AWS infrastructure using Terraform, applying modular design, secure state management, and structured deployment workflows.
     <br>
-    <a href="https://github.com/elorm116/30-days-terraform"><strong>View Project</strong></a>
+    🔗 <a href="https://github.com/elorm116/30-days-terraform">View Project</a>
   </p>
 
-  <img src="https://img.shields.io/badge/Terraform-7F3AC2?style=flat&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
-
-  <br><br>
-
-  <h3>🚀 What I'm Working On</h3>
-  
+  <!-- Full-Stack Cloud DevOps Project -->
+  <h4>🔹 DevOps Full-Stack Cloud Platform (Mali’s Blog)</h4>
+  <p>
+    Built a production-style full-stack application with a complete DevOps workflow, including containerization, CI/CD, security, and observability.
+    <br>
+    🔗 <a href="https://github.com/elorm116/devops-fullstack-cloud">View Project</a>
+  </p>
   <ul>
-    <li>Designing and improving Terraform-based infrastructure</li>
-    <li>Applying modular architecture and reusable configurations</li>
-    <li>Exploring secure state management and deployment workflows</li>
+    <li>Dockerized full-stack app: React (Nginx) + Node.js/Express + MongoDB (JWT auth + health checks)</li>
+    <li>Security: :contentReference[oaicite:0]{index=0} Transit used to encrypt PII fields in the API</li>
+    <li>CI/CD: :contentReference[oaicite:1]{index=1} builds multi-arch images, SonarQube scanning, pushes to Docker Hub, deploys via SSH/Tailscale</li>
+    <li>Observability: :contentReference[oaicite:2]{index=2} + :contentReference[oaicite:3]{index=3} with pre-provisioned dashboards</li>
+    <li>Next phase: Expanding into Kubernetes-based deployment, Helm, Terraform, and GitOps workflows</li>
   </ul>
 
-  <h3>📊 Current Focus</h3>
-  <strong>From basic provisioning → structured, production-style infrastructure workflows</strong>
-
-  <br>
+  <h3>🛠️ Technologies & Tools</h3>
+  `Terraform` • `AWS` • `Docker` • `GitHub Actions` • `Linux` • `React` • `Node.js` • `MongoDB` • `HashiCorp Vault` • `GitOps`
 
   <h3>🔗 Connect With Me</h3>
   <a href="https://www.linkedin.com/in/aezottor/">LinkedIn</a> • 
   <a href="https://twitter.com/elorm116">X / Twitter</a> • 
   <a href="https://medium.com/@aezottor">Medium</a>
-
-  <br><br>
-
-  <h3>⭐ Featured Project</h3>
-  <a href="https://github.com/elorm116/30-days-terraform">
-    <strong>Terraform in Practice: Infrastructure Project</strong>
-  </a>
-  <p>Building and documenting real-world infrastructure using Terraform, focusing on workflows, modularity, and best practices.</p>
-
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools
-`Terraform` • `AWS` • `GitHub Actions` • `Linux` • `Docker` • `Git` • `GitOps`
-
----
-
-*Focused on building reliable, scalable infrastructure using real-world DevOps practices.*
+*Focused on building reliable, scalable infrastructure and cloud applications using real-world DevOps practices.*
