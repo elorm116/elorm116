@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Anthony 👋</h1>
+  <h1>Hi, I'm Anthony Elorm 👋</h1>
   
   <p>
     <strong>DevOps Engineer</strong> focused on building and automating real-world infrastructure and cloud applications.
